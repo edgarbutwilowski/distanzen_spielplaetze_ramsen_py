@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "spielplaetze",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 981358.416917143738829, 6058199.298617384396493 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 980695.374167900416069, 6058636.979947629384696 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 980329.92089504969772, 6057921.777503830380738 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 982014.311052962439135, 6058675.409870808012784 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 983366.518994079087861, 6058664.566384435631335 ] } }
+]
+}

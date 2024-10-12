@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "spielplaetze",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 981403.408466925146058, 6058655.983052330091596 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 981026.879234784981236, 6058301.91742382850498 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 980630.175221464713104, 6058153.226490789093077 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 980684.07062427024357, 6058584.389713233336806 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 981121.970772065338679, 6057877.012551410123706 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 981438.606263547786511, 6058227.332669646479189 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 981768.715605731820688, 6058463.125056920573115 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 983398.094011446577497, 6058632.991367068141699 ] } }
+]
+}
