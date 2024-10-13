@@ -1,12 +1,12 @@
 {
 "type": "FeatureCollection",
-"name": "spielplaetze",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"name": "spielplaetze_400m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 981358.416917143738829, 6058199.298617384396493 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 980695.374167900416069, 6058636.979947629384696 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 980329.92089504969772, 6057921.777503830380738 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 982014.311052962439135, 6058675.409870808012784 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 983366.518994079087861, 6058664.566384435631335 ] } }
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 8.815692651160077, 47.706707026675211 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 8.809736436803378, 47.709352741617295 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 8.806453514197043, 47.705029385528185 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 8.821584648429781, 47.709585038057178 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 8.833731739037908, 47.709519492798634 ] } }
 ]
 }
