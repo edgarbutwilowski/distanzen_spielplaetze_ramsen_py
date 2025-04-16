@@ -35,7 +35,7 @@ source .venv/bin/activate
 Danach werden die **Python-Pakete** in der **Virtuellen Umgebung** installiert:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Achtung, die Pakete werden auch durch das AUsführen des Notebook installiert (siehe folgendes Kapitel).
