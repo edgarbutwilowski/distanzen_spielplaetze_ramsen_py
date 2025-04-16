@@ -22,8 +22,8 @@ Anschliessend kann die **Virtuelle Umgebung** mit den folgenden Befehlen **aktiv
 
 Windows:
 
-```bash
-source .venv\Scripts\activate
+```cmd
+.venv\Scripts\activate
 ```
 
 Linux:
