@@ -9,13 +9,13 @@ Hierzu muss die **Viruelle Umgebung** mit den folgenden Befehlen zunächst **ang
 Windows:
 
 ```bash
-python -m venv .venv\
+python -m venv .venv
 ```
 
 Linux:
 
 ```bash
-python3 -m venv .venv/
+python3 -m venv .venv
 ```
 
 Anschliessend kann die **Virtuelle Umgebung** mit den folgenden Befehlen **aktiviert** werden:
